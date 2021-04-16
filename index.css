@@ -1,0 +1,51 @@
+nav{
+
+/*	background: #667db6;  
+background: -webkit-linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6);  
+background: linear-gradient(to right, #667db6, #0082c8, #0082c8, #667db6); */
+
+/*background: #1A2980;  
+background: -webkit-linear-gradient(to right, #26D0CE, #1A2980); 
+background: linear-gradient(to right, #26D0CE, #1A2980);
+*/
+
+/*background-color: #36096d;
+background-image: linear-gradient(315deg, #36096d 0%, #37d5d6 74%);*/
+
+background-color: #2a2a72;
+background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+}
+
+/*a {
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 0.15em;
+  
+  display: inline-block;
+  padding: 15px 20px;
+  position: relative;
+}
+a:after {    
+  background: none repeat scroll 0 0 transparent;
+  bottom: 0;
+  content: "";
+  display: block;
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  background: #fff;
+  transition: width 0.3s ease 0s, left 0.3s ease 0s;
+  width: 0;
+}
+a:hover:after { 
+  width: 100%; 
+  left: 0; 
+}*/
+
+.und:hover {
+    text-decoration: underline;
+    text-underline-offset: 0.65em;
+    opacity: 0.6;
+    transition: linear;
+}
